@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wsm/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/support-annotations-22.0.0-bb896773f53288cebb7f158aa2a8c2ccf4a32a01.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-f5107447c5145694b8fa6dc6a73ba5361406e189.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-5bbc73e70f0d0108f7d012b5854f6b5640f3853f.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-0df274c551853dee7e32626361ceaac2c2695286.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/internal_impl-22.0.0-50b302a3d3c4b3b0f7d90ad56ef1f213fa0bf907.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-76af8b02c1bc67c503cc2bd38051e6cabf70fcf3.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-6fa9d01a65f13985dd7e35b1d95a4e3d638600e3.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-1bf06cf0c760c73d5268c4f1ea3a0fefe2399cdb.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-941b1cfd7661d2db0308d228088b0487395d488a.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-7672fcbf2cb18b2a958a1041f750983448dd1448.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/classes-d030637a7c479ebfe5083cc137a954d9cff322e4.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-f5c962206d06a1bf483046306e24517e78d1de3a.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-8162d2ee086cf0213a0abf47204673e293644ce1.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-dd2aed8b6a95f235775d69d48503f4126a3d237e.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/classes-5a1b272c485e0019d17c13c1a0468cbf1d89a1a5.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-b92d61be5f5df97f3a3abe52019e873ee6566efe.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-0a3aa21071a844049e599c75751a4fc69931b96c.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-d686f7b7effbe1dde2efd8475d86609e0c877b99.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/classes-6633b2ef9c32c156b624c39b645027dce3334597.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-68103acc80892c717fdd25ae24fb3d57064f03c8.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-ab2f58e8c307c9abafc40d5afefa67088521d102.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/classes-da07a9504597b297e1a03cdb4e0c5b7ea161266b.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-5aab54c35482d0c6f2c67ac63bac5381c40c3d3b.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-001d2cadccbbeb7382166a10e08e81d80eabd032.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-01180c4d3ea356219fd950fe13fde65e50f184d5.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e50fd51fdd68f8a0cee84763a9232de7ac105692.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/wear/build/intermediates/pre-dexed/release/classes-fb4ff8f79810526d3a37356d3946795da20cc882.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-5a0d4a5edc550ad838b3ede8cb29e4eadb798d08.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-9695a9369fcb2d689f4874e4f00a03ef6ebbc893.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-214feba995c696521d95a49f0ff943b2ba44634e.jar" />
+    </item>
+    <item
+        jar="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/wsm/AndroidStudioProjects/Gesture/mobile/build/intermediates/pre-dexed/debug/classes-26524789411bc739a5014fe51d8ac0490609f07c.jar" />
+    </item>
+
+</items>
