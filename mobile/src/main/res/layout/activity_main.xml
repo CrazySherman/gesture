@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:id="@+id/layout1">
+
+    <TextView android:text="@string/hello_world"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bigView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:textSize="@dimen/abc_action_bar_default_height_material" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/utext"
+        android:hint="user id(must be int)"
+        android:layout_marginTop="111dp"
+        android:textSize="40dp"
+        android:layout_below="@+id/bigView"
+        android:layout_alignLeft="@+id/bigView"
+        android:layout_alignStart="@+id/bigView" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gtext"
+        android:hint="gest id (must be pos int)"
+        android:layout_marginTop="101dp"
+        android:textSize="40dp"
+        android:layout_below="@+id/utext"
+        android:layout_alignLeft="@+id/utext"
+        android:layout_alignStart="@+id/utext" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="set"
+        android:id="@+id/set"
+        android:textSize="35dp"
+        android:layout_above="@+id/log"
+        android:layout_alignLeft="@+id/gtext"
+        android:layout_alignStart="@+id/gtext"
+        android:layout_marginBottom="77dp"
+        android:padding="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/log"
+        android:textSize="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/set"
+        android:layout_alignStart="@+id/set"
+        android:layout_marginBottom="67dp"
+        android:textColor="@color/blue"
+        android:text="nihao" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="del"
+        android:id="@+id/delete"
+        android:layout_alignTop="@+id/set"
+        android:layout_alignRight="@+id/utext"
+        android:layout_alignEnd="@+id/utext"
+        android:layout_alignBottom="@+id/set"
+        android:textSize="35dp"
+        android:background="@color/red" />
+
+</RelativeLayout>
